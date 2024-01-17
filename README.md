@@ -4,7 +4,7 @@ After completing my degree in Ancient History, I made a deliberate shift in my p
 
 #### Skills 👩🏻‍💻:
 
-I have learned Python, SQL (MySQL) for database management. I also have experience with Pandas for data manipulation and analysis, NumPy for numerical computation in Python, and Seaborn/Matplotlib for data visualization. I'm also familiar with Scikit-Learn for machine learning methods. Finally, I've worked with Tableau to create interactive visualizations and dashboards.
+I have learned Python, SQL (MySQL) for database management. I also have experience with Pandas for data manipulation and analysis, NumPy for numerical computation in Python, and Seaborn/Matplotlib for data visualization. I'm also familiar with Scikit-Learn for machine learning methods. Finally, I've worked with both Tableau & Power BI to create interactive visualizations and dashboards.
 
 
 
